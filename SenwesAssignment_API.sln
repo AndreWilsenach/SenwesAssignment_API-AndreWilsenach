@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SenwesAssignment_API", "SenwesAssignment_API.csproj", "{3081582C-AE37-4772-876E-5C071472176B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ACAC8D50-348B-4C50-A552-BEA52B2AB424}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3081582C-AE37-4772-876E-5C071472176B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3081582C-AE37-4772-876E-5C071472176B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3081582C-AE37-4772-876E-5C071472176B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3081582C-AE37-4772-876E-5C071472176B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B420D049-84F6-498D-BBE4-DE469278F04D}
+	EndGlobalSection
+EndGlobal
